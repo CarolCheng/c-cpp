@@ -20,4 +20,4 @@ tcp_async_echo_server.o: tcp_async_echo_server.cpp
 	$(CC) $(CFLAGS) tcp_async_echo_server.cpp
 
 clean:
-	rm -rf *o *sync_server *sync_client
+	rm -rf *o *_server *_client
