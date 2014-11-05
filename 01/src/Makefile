@@ -1,7 +1,7 @@
 
 CC=g++
 
-CFLAGS=-c -Wall -Wwrite-strings
+CFLAGS=-c -Wall -Wno-write-strings
 
 all: tcp_async_echo_client tcp_async_echo_server
 
