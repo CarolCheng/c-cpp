@@ -2,3 +2,12 @@
 1415672043 source:d:\_git\c-cpp\02\class-sample\main.cpp
 	<iostream>
 
+1415783621 source:d:\_git\c-cpp\02\class-sample\src\user.cpp
+	"Vector.h"
+	<cmath>
+
+1415783188 d:\_git\c-cpp\02\class-sample\include\vector.h
+
+1415783638 source:d:\_git\c-cpp\02\class-sample\src\vector.cpp
+	"Vector.h"
+
