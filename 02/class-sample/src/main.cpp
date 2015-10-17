@@ -39,7 +39,6 @@ double read_and_sum(int s)
 
 int main()
 {
-
     cout << "\nThe sum is: "<< read_and_sum(5) << endl;
 
 //    Vector vv(3);
